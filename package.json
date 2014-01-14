@@ -2,7 +2,6 @@
   "name": "sqlite-okapi-bm25",
   "version": "0.1.0",
   "description": "SQLite extension for Okapi BM25 ranking algorithm",
-  "main": "index.js",
   "directories": {
     "test": "test"
   },
